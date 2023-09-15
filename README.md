@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @711019104009
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Durga Devi B
+- 👀 I’m interested in java full stack development
+- 🌱 I’m currently learning java full stack development
+- 💞️ I’m looking to collaborate on company
+- 📫 How to reach me contact 9791250384
 
-<!---
-711019104009/711019104009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
